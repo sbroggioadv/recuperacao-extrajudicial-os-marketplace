@@ -1,0 +1,21 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "recuperacao-extrajudicial-os",
+  "description": "Preparação da recuperação extrajudicial pelo advogado do devedor ou do credor, inclusive produtor rural, com corpus local e revisão humana.",
+  "owner": {
+    "name": "Luis Sbroggio",
+    "email": "luis@sbroggio.io"
+  },
+  "plugins": [
+    {
+      "name": "recuperacao-extrajudicial-os",
+      "source": "./",
+      "description": "Preparação da recuperação extrajudicial pelo advogado do devedor ou do credor, inclusive produtor rural, com corpus local e revisão humana.",
+      "author": {
+        "name": "Luis Sbroggio",
+        "email": "luis@sbroggio.io"
+      },
+      "version": "0.1.0"
+    }
+  ]
+}

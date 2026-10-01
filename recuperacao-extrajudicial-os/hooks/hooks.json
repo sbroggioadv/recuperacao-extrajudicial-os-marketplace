@@ -1,0 +1,16 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "echo 'recuperacao-extrajudicial-os carregado — corpus local; produção jurídica depende de revisão humana'",
+            "timeout": 5
+          }
+        ]
+      }
+    ]
+  }
+}

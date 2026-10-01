@@ -1,0 +1,9 @@
+{
+  "name": "recuperacao-extrajudicial-os",
+  "version": "0.1.0",
+  "description": "Preparação da recuperação extrajudicial pelo advogado do devedor ou do credor, inclusive produtor rural, com corpus local e revisão humana.",
+  "author": {
+    "name": "Luis Sbroggio",
+    "email": "luis@sbroggio.io"
+  }
+}
