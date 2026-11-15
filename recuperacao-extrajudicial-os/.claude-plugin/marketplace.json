@@ -4,7 +4,7 @@
   "description": "Preparação da recuperação extrajudicial pelo advogado do devedor ou do credor, inclusive produtor rural, com corpus local e revisão humana.",
   "owner": {
     "name": "Luis Sbroggio",
-    "email": "luis@sbroggio.io"
+    "email": "suporte@iapx.pro"
   },
   "plugins": [
     {
@@ -13,9 +13,9 @@
       "description": "Preparação da recuperação extrajudicial pelo advogado do devedor ou do credor, inclusive produtor rural, com corpus local e revisão humana.",
       "author": {
         "name": "Luis Sbroggio",
-        "email": "luis@sbroggio.io"
+        "email": "suporte@iapx.pro"
       },
-      "version": "0.1.0"
+      "version": "0.1.1"
     }
   ]
 }

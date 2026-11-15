@@ -1,8 +1,8 @@
 # Recuperação Extrajudicial OS
 
-Versão 0.1.0 — estrutura inicial em desenvolvimento. Rol aprovado pelo Doc 01/10: 24 skills e 12 comandos; skills e commands ainda vazios nesta entrega de estrutura. Esta versão não está publicada e não constitui capacidade jurídica operacional.
+Versão 0.1.1 — estrutura inicial em desenvolvimento. Rol aprovado pelo Doc 01/10: 24 skills e 12 comandos; skills e commands ainda vazios nesta entrega de estrutura. Esta versão não está publicada e não constitui capacidade jurídica operacional.
 
-Público: advogado do devedor ou do credor, com lado definido por caso; administrador judicial fora. Preço decidido: R$ 398. Suporte: luis@sbroggio.io.
+Público: advogado do devedor ou do credor, com lado definido por caso; administrador judicial fora. Preço decidido: R$ 398. Suporte: suporte@iapx.pro.
 
 ## Recorte e fronteiras
 

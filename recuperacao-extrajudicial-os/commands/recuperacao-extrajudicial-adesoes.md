@@ -20,4 +20,4 @@ Atuar como apoio ao advogado do devedor ou do credor, mantendo o lado fixado pel
 
 Entregar cliente/lado, modalidade, empresa/atividade, corte, créditos/grupos/valores/documentos, garantias, adesões/poderes, cronologia comprovada, fontes com arquivo/dispositivo/linhas, matriz `requisito → fonte → fato → prova/trecho → resultado → pendência/responsável` e próxima providência humana. Usar `PREPARAÇÃO CONDICIONADA À REVISÃO HUMANA`, `PENDENTE DE PROVA`, `BLOQUEADO` ou `FORA DO RECORTE`. Não fabricar assinatura, protocolo, negociação, homologação, prazo suspenso ou credor vinculado.
 
-Guidance only: orientação ao agente, sem enforcement por hook nem garantia jurídica/operacional. Suporte: luis@sbroggio.io.
+Guidance only: orientação ao agente, sem enforcement por hook nem garantia jurídica/operacional. Suporte: suporte@iapx.pro.
